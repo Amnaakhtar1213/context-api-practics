@@ -43,6 +43,6 @@ why we use context-api and where
 
 import useContext and themeData
 const data = useContext(themeData)
-<h1>{data}</h1>  
+`<h1>{data}</h1> ` 
 
 --------------------------------------
