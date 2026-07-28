@@ -20,7 +20,7 @@ why we use context-api and where
 - so here come `DATA-CENTRALIZATION` . HERE WHAT WE DO IS =>  we make a data folder like {Context} and here make file of every data  like {ThemeContext} and now that data file we have to cantralize it so which need it go directly there and take it . 
 - here its come `CONTEXT-API` . go to context folder => file 
 - 3 points keep in mind while context-api 
-- CREAT CONTEXT
+- CREAT DATA-CONTEXT
 - PROVIDE DATA
 - USE DATA
   
